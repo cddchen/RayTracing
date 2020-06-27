@@ -1,0 +1,10 @@
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\bin\Release\RayTrace.exe.config
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\bin\Release\RayTrace.exe
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\bin\Release\RayTrace.pdb
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\obj\Release\RayTrace.csprojAssemblyReference.cache
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\obj\Release\RayTrace.Form1.resources
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\obj\Release\RayTrace.Form2.resources
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\obj\Release\RayTrace.Properties.Resources.resources
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\obj\Release\RayTrace.csproj.GenerateResource.cache
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\obj\Release\RayTrace.exe
+C:\Users\cdd13\Desktop\学习\桌面程序开发\desktop-code\RayTrace\RayTrace\obj\Release\RayTrace.pdb
